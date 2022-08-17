@@ -1,5 +1,5 @@
 # Upgrad_Melonoma
-> To build a CNN based model which can accurately detect melanoma.
+> To build a multiclass classification model using a custom convolutional neural network in TensorFlow which can accurately detect melanoma.
 
 ## Table of Contents
 * [General Info](#general-information)
